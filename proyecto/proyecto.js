@@ -8,7 +8,7 @@ function api(){
 			method: 'GET',
 			headers: new Headers({ 'Accept': 'application/json',
 			 'Content-Type': 'application/json',
-			 'Authorization': 'Bearer BQCc8Qt4wGyEeQCuJb6rbbS0ceVt6WINyFEO4zyHbHOIll4bwKOMuBQSKJby-v9a-LnJKMPw0SjSoqRklkQHjisAVl7WHWs66GOI_vAadO2VonKtk1rQabZ9ckZ-Z-UCDBdOeoI3VWKfqBJv'})
+			 'Authorization': 'Bearer BQDmfzXa5BxFChzAYh43WrjGu4bhUhB5dKlMp3V11cZ7lLStyFHsJpFG5uuPNFEwGj8GcpD_GYdB0WI4kjY2wGqSntQcIxVbi2OuFyRwrRlV6XQVTAiDpRmKXWSCeiErbIcEZLmXzjMWwV01'})
 		});
 
 	fetch(request)
