@@ -1,0 +1,35 @@
+.campo
+{
+    background-color: #000000;
+    border-color: #000000;
+    border-radius: 0;
+    border-width: 0;
+    color: #FFFFFF;
+    font-size: 20pt;
+    font-weight: bold;
+    text-align: center;
+}
+
+.boton
+{
+    background-color: #000000;
+    border-color: #000000;
+    border-radius: 0;
+    border-width: 0;
+    color: #FFFFFF;
+    font-size: 20pt;
+    font-weight: bold;
+    text-align: center;
+}
+
+.boton:hover
+{
+    background-color: #000000;
+    border-color: #000000;
+    border-radius: 0;
+    border-width: 0;
+    color: forestgreen;
+    font-size: 20pt;
+    font-weight: bold;
+    text-align: center;
+}
